@@ -5,7 +5,7 @@ custom heading element intended to replace h1-h6 with a single heading element. 
 
 
 currently done:
-implemented styling using moz- property haeding size reflects nesting. try [demo page](http://thepaciellogroup.github.io/w3c-heading/) in FF 
+implemented styling using moz- property heading size reflects nesting. try [demo page](http://thepaciellogroup.github.io/w3c-heading/) in FF 
 
 to do:
 * add scripting to reflect outline depth in aria-level property + add heading role
